@@ -1,0 +1,7 @@
+{
+  "name": "ALEATORIA: The Kingdom of Chance v0.4.0.0",
+  "description": "A production-grade Action-RPG MMO architecture foundation featuring a Shattered Vellum aesthetic, Fate Engine combat, and server-side authority simulation.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
